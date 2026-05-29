@@ -14,7 +14,7 @@ export const siteConfig = {
   whatsappRaw: "919110650537",
 
   // PLACEHOLDER — replace with the real clinic address.
-  address: "no. 336, 38th cross, Jayanagar 9th block, Landmark: Aikya World School, Bengaluru - 560069",
+  address: "no. 336, 38th cross, Jayanagar 9th block, Landmark: Opp. Aikya World School, Bengaluru - 560069",
   mapsUrl: "https://maps.google.com/?q=Bharath+Audiology",
 
   email: "bharathaudiology@gmail.com",
