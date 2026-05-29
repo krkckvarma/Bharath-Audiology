@@ -9,7 +9,7 @@ export function Hero() {
         <div className="flex flex-col gap-6">
           <span className="inline-flex w-fit items-center gap-2 rounded-full bg-accent/20 px-4 py-1.5 text-sm font-semibold text-accent-foreground">
             <Star className="size-4 fill-current" aria-hidden="true" />
-            Trusted by 5,000+ patients
+            Trusted by 11,000+ patients
           </span>
 
           <h1 className="text-balance font-serif text-4xl font-semibold leading-tight text-foreground md:text-5xl lg:text-6xl">
