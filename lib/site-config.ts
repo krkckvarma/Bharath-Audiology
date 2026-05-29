@@ -9,12 +9,12 @@ export const siteConfig = {
 
   // PLACEHOLDER — replace with the real number (used for both call and WhatsApp).
   // Use full international format for WhatsApp links (no spaces, with country code).
-  phoneDisplay: "+91 98765 43210",
-  phoneRaw: "+919876543210",
-  whatsappRaw: "919876543210",
+  phoneDisplay: "+91 9110650537",
+  phoneRaw: "+919110650537",
+  whatsappRaw: "919110650537",
 
   // PLACEHOLDER — replace with the real clinic address.
-  address: "123 MG Road, Near City Hospital, Bengaluru, Karnataka 560001",
+  address: "no. 336, 38th cross, Jayanagar 9th block, Landmark: Aikya World School, Bengaluru - 560069",
   mapsUrl: "https://maps.google.com/?q=Bharath+Audiology",
 
   email: "care@bharathaudiology.in",
