@@ -17,7 +17,7 @@ export const siteConfig = {
   address: "no. 336, 38th cross, Jayanagar 9th block, Landmark: Aikya World School, Bengaluru - 560069",
   mapsUrl: "https://maps.google.com/?q=Bharath+Audiology",
 
-  email: "care@bharathaudiology.in",
+  email: "bharathaudiology@gmail.com",
 
   hours: [
     { day: "Monday – Saturday", time: "10:00 AM – 8:00 PM" },
