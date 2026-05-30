@@ -30,7 +30,7 @@ const qualifications = [
   {
     icon: Languages,
     title: "Languages",
-    detail: "[English, Hindi, Kannada, Tamil] — comfortable counselling in your language.",
+    detail: "[English, Hindi, Kannada, Telugu] — comfortable counselling in your language.",
   },
 ]
 
