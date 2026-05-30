@@ -32,7 +32,7 @@ export function Hero() {
                 <ShieldCheck className="size-4 text-primary" aria-hidden="true" />
                 Certified
               </dt>
-              <dd className="text-base font-semibold text-foreground">Audiologists</dd>
+              <dd className="text-base font-semibold text-foreground">Audiologist</dd>
             </div>
             <div className="flex flex-col">
               <dt className="flex items-center gap-1.5 text-sm text-muted-foreground">
