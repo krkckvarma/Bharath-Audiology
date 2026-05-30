@@ -5,12 +5,12 @@ const qualifications = [
   {
     icon: GraduationCap,
     title: "Master of Audiology (M.Sc / M.A.S.L.P.)",
-    detail: "[University Name], [Year] — specialization in diagnostic & rehabilitative audiology.",
+    detail: "A.I.I.S.H, Mysore, [Year] — specialization in diagnostic & rehabilitative audiology.",
   },
   {
     icon: GraduationCap,
     title: "Bachelor of Audiology & Speech-Language Pathology (B.A.S.L.P.)",
-    detail: "[University Name], [Year].",
+    detail: "A.I.I.S.H, Mysore, [Year].",
   },
   {
     icon: BadgeCheck,
