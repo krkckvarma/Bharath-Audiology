@@ -13,7 +13,7 @@ export function AboutHero() {
           </h1>
           <p className="text-pretty text-lg leading-relaxed text-muted-foreground">
             {/* PLACEHOLDER — short professional bio / mission statement */}
-            For over [XX] years, I&apos;ve dedicated my career to helping people of all ages
+            For over 15 years, I&apos;ve dedicated my career to helping people of all ages
             reconnect with the sounds they love. At Bharath Audiology, I combine the latest
             diagnostic technology with genuine, patient-first care — because better hearing is
             about more than devices, it&apos;s about quality of life.
