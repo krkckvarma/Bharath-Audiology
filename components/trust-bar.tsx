@@ -1,7 +1,7 @@
 import { Users, Award, Headphones, HeartHandshake } from "lucide-react"
 
 const stats = [
-  { icon: Users, value: "11,000+", label: "Happy Patients" },
+  { icon: Users, value: "5,000+", label: "Happy Patients" },
   { icon: Award, value: "15+ Years", label: "Of Experience" },
   { icon: Headphones, value: "200+", label: "Hearing Aid Models" },
   { icon: HeartHandshake, value: "Lifetime", label: "Aftercare Support" },

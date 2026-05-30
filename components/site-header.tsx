@@ -6,11 +6,12 @@ import { siteConfig, telLink } from "@/lib/site-config"
 import { WhatsAppButton } from "@/components/contact-buttons"
 
 const navLinks = [
-  { href: "#services", label: "Services" },
-  { href: "#hearing-aids", label: "Hearing Aids" },
-  { href: "#hearing-test", label: "Free Hearing Test" },
-  { href: "#testimonials", label: "Reviews" },
-  { href: "#contact", label: "Contact" },
+  { href: "/about", label: "About" },
+  { href: "/#services", label: "Services" },
+  { href: "/#hearing-aids", label: "Hearing Aids" },
+  { href: "/#hearing-test", label: "Free Hearing Test" },
+  { href: "/#testimonials", label: "Reviews" },
+  { href: "/#contact", label: "Contact" },
 ]
 
 export function SiteHeader() {
@@ -19,7 +20,7 @@ export function SiteHeader() {
   return (
     <header className="sticky top-0 z-50 border-b border-border/60 bg-background/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3 md:px-6">
-        <a href="#top" className="flex items-center gap-2.5">
+        <a href="/" className="flex items-center gap-2.5">
           <span className="flex size-10 items-center justify-center rounded-full bg-primary text-primary-foreground">
             <Ear className="size-6" aria-hidden="true" />
           </span>

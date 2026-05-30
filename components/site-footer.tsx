@@ -2,11 +2,12 @@ import { Ear, Phone, MapPin } from "lucide-react"
 import { siteConfig, telLink } from "@/lib/site-config"
 
 const links = [
-  { href: "#services", label: "Services" },
-  { href: "#hearing-aids", label: "Hearing Aids" },
-  { href: "#hearing-test", label: "Free Hearing Test" },
-  { href: "#testimonials", label: "Reviews" },
-  { href: "#contact", label: "Contact" },
+  { href: "/about", label: "About" },
+  { href: "/#services", label: "Services" },
+  { href: "/#hearing-aids", label: "Hearing Aids" },
+  { href: "/#hearing-test", label: "Free Hearing Test" },
+  { href: "/#testimonials", label: "Reviews" },
+  { href: "/#contact", label: "Contact" },
 ]
 
 export function SiteFooter() {
