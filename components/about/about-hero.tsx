@@ -13,19 +13,12 @@ export function AboutHero() {
           </h1>
           <p className="text-pretty text-lg leading-relaxed text-muted-foreground">
             {/* PLACEHOLDER — short professional bio / mission statement */}
-            My journey in audiology began with a deep passion for helping people reconnect with the sounds that enrich their lives. This commitment led me to pursue a Diploma in Hearing Aid and Ear Mould Technology from the All India Institute of Speech and Hearing (AIISH), Mysuru, in 2005.
+With over 20 years of experience in audiology and hearing healthcare, Bharath has dedicated his career to helping people hear better and live better. Trained at All India Institute of Speech and Hearing, he holds a Diploma in Hearing Aid & Ear Mould Technology, a BASLP degree, and a Master’s in Audiology. He secured All India Rank 2 in the national entrance examination for his postgraduate studies.
 
-Driven by a desire to gain deeper clinical expertise, I completed my Bachelor of Audiology and Speech-Language Pathology (BASLP) from AIISH, Mysuru, in 2009. In the same year, I secured All India Rank 2 in the national entrance examination for Master of Audiology and successfully completed my Master's degree in Audiology in 2011.
+Before founding Bharath Audiology, Bharath worked across clinical practice, research, hearing technology, and professional training, including more than 12 years with Amplifon, where he was recognized as Best Audiologist three times.
 
-During my postgraduate studies, I envisioned an audiology practice that would combine clinical excellence, advanced technology, and patient-centered care. This vision became the foundation of Bharath Audiology.
-
-Following my master's degree, I served as a Research Officer at AIISH, Mysuru, until 2012, where I contributed to audiological research and evidence-based clinical practices. I then worked with Cadential Technologies and Klear Speech & Hearing Center as a Product Trainer and Audiologist, gaining valuable experience in hearing healthcare solutions, diagnostic audiology, hearing aid technology, and professional training.
-
-In February 2014, I joined Amplifon, one of the world's leading hearing healthcare organizations. Over the next 12.5 years, I played a key role in developing and scaling the Jayanagar center into one of the organization's successful clinics. My dedication to patient care, clinical excellence, and business growth earned me recognition as "Best Audiologist" on three separate occasions.
-
-With over two decades of experience in hearing healthcare, I have had the privilege of helping thousands of individuals improve their hearing, communication, and quality of life. Through Bharath Audiology, my mission is to provide world-class hearing care services, advanced diagnostic evaluations, personalized hearing solutions, and compassionate support for every patient and family we serve.
-
-At Bharath Audiology, we believe that better hearing leads to better living, and we are committed to helping you hear your best every day.
+Today, Bharath Audiology is built on a simple belief: better hearing leads to better living—delivering expert diagnosis, personalized hearing solutions, and compassionate care for every patient.
+            
           </p>
 
           <dl className="grid grid-cols-3 gap-4">
