@@ -9,8 +9,7 @@ export function AboutHero() {
           <p className="text-sm font-semibold uppercase tracking-wide text-primary">About Me</p>
           <h1 className="text-balance font-serif text-4xl font-semibold text-foreground md:text-5xl">
             {/* PLACEHOLDER — replace with the audiologist's name */}
-            Bharath Bhushan K.R, <br />
-            Founder & Chief Audiologist
+            Bharath Bhushan K.R, Founder & Chief Audiologist
             
           </h1>
           <p className="text-pretty text-lg leading-relaxed text-muted-foreground">
