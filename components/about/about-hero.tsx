@@ -26,9 +26,9 @@ export function AboutHero() {
 
           <dl className="grid grid-cols-3 gap-4">
             {[
-              { value: "[XX]+", label: "Years of experience" },
-              { value: "[X,XXX]+", label: "Patients helped" },
-              { value: "[XX]+", label: "Trusted partners" },
+              { value: "15+", label: "Years of experience" },
+              { value: "11,000+", label: "Patients helped" },
+              { value: "7+", label: "Trusted partners" },
             ].map((stat) => (
               <div key={stat.label} className="rounded-xl border border-border/60 bg-card p-4">
                 <dt className="font-serif text-2xl font-semibold text-primary">{stat.value}</dt>
