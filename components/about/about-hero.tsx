@@ -13,11 +13,76 @@ export function AboutHero() {
           </h1>
           <p className="text-pretty text-lg leading-relaxed text-muted-foreground">
             {/* PLACEHOLDER — short professional bio / mission statement */}
-With over 20 years of experience in audiology and hearing healthcare, Bharath has dedicated his career to helping people hear better and live better. Trained at All India Institute of Speech and Hearing, he holds a Diploma in Hearing Aid & Ear Mould Technology, a BASLP degree, and a Master’s in Audiology. He secured All India Rank 2 in the national entrance examination for his postgraduate studies.
 
-Before founding Bharath Audiology, Bharath worked across clinical practice, research, hearing technology, and professional training, including more than 12 years with Amplifon, where he was recognized as Best Audiologist three times.
+            My journey in audiology began with a deep passion for helping
+            people reconnect with the sounds that enrich their lives. That
+            passion led me to pursue a Diploma in Hearing Aid and Ear Mould
+            Technology from the All India Institute of Speech and Hearing
+            (AIISH), Mysuru, in 2005.
+          </p>
 
-Today, Bharath Audiology is built on a simple belief: better hearing leads to better living—delivering expert diagnosis, personalized hearing solutions, and compassionate care for every patient.
+          <p>
+            Driven by a desire to build deeper clinical expertise and deliver
+            better hearing care, I completed my Bachelor of Audiology and
+            Speech-Language Pathology (BASLP) from AIISH, Mysuru, in 2009.
+            In the same year, I secured <strong>All India Rank 2</strong> in
+            the national entrance examination for Master of Audiology and
+            successfully completed my Master’s degree in Audiology in 2011.
+          </p>
+
+          <p>
+            During my postgraduate studies, I envisioned an audiology practice
+            built on three core values:
+            <span className="font-semibold text-gray-900">
+              {" "}
+              clinical excellence, advanced technology, and patient-centered
+              care.
+            </span>{" "}
+            That vision became the foundation of Bharath Audiology.
+          </p>
+
+          <p>
+            Following my master’s degree, I served as a Research Officer at
+            AIISH, Mysuru, contributing to audiological research and
+            evidence-based clinical practice. I later worked with Cadential
+            Technologies and Klear Speech & Hearing Center as a Product Trainer
+            and Audiologist, gaining extensive experience in diagnostic
+            audiology, hearing aid technology, hearing healthcare solutions, and
+            professional training.
+          </p>
+
+          <p>
+            In February 2014, I joined Amplifon, one of the world’s leading
+            hearing healthcare organizations. Over the next
+            <strong> 12.5 years</strong>, I played a key role in developing and
+            scaling the Jayanagar center into one of the organization’s most
+            successful clinics.
+          </p>
+
+          <p>
+            My dedication to patient care, clinical excellence, and service
+            growth earned me recognition as
+            <strong> “Best Audiologist” </strong>
+            on three separate occasions.
+          </p>
+
+          <p>
+            With <strong>over two decades of experience</strong> in hearing
+            healthcare, I have had the privilege of helping thousands of
+            individuals improve their hearing, communication, and quality of
+            life.
+          </p>
+
+          <p>
+            Through <strong>Bharath Audiology</strong>, my mission is to provide
+            world-class hearing care services, advanced diagnostic evaluations,
+            personalized hearing solutions, and compassionate support for every
+            patient and family we serve.
+          </p>
+
+          <p className="pt-4 text-xl font-semibold italic text-[#E76F51]">
+            Better hearing leads to better living — and we’re committed to
+            helping you hear your best every day.
             
           </p>
 
