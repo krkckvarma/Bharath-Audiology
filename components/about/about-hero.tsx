@@ -9,14 +9,19 @@ export function AboutHero() {
           <p className="text-sm font-semibold uppercase tracking-wide text-primary">About Me</p>
           <h1 className="text-balance font-serif text-4xl font-semibold text-foreground md:text-5xl">
             {/* PLACEHOLDER — replace with the audiologist's name */}
-            Dr. [Your Name], Audiologist
+            Bharath Bhushan, Founder & Chief Audiologist
           </h1>
           <p className="text-pretty text-lg leading-relaxed text-muted-foreground">
             {/* PLACEHOLDER — short professional bio / mission statement */}
-            For over [XX] years, I&apos;ve dedicated my career to helping people of all ages
-            reconnect with the sounds they love. At Bharath Audiology, I combine the latest
-            diagnostic technology with genuine, patient-first care — because better hearing is
-            about more than devices, it&apos;s about quality of life.
+            My journey in audiology began with a passion for helping people reconnect with the sounds that shape everyday life. 
+            I earned my Diploma in Hearing Aid and Ear Mould Technology in 2005, followed by a Bachelor’s in Audiology and Speech-Language Pathology in 2009 from All India Institute of Speech and Hearing. 
+            That same year, I secured All India Rank 2 in the national entrance exam for Master of Audiology and completed my Master’s degree in Audiology in 2011.
+
+            After working in research, clinical audiology, hearing aid technology, and professional training, I joined Amplifon in 2014, where I spent over 12 years building one of the organisation’s leading clinics and was recognised as “Best Audiologist” three times.
+            With over 20 years of experience in hearing healthcare, I’ve had the privilege of helping thousands of people improve their hearing, communication, and quality of life. Bharath Audiology was founded with a simple mission: to deliver expert, technology-driven, and compassionate hearing care tailored to every individual.
+
+            At Bharath Audiology, we believe better hearing leads to better living—and we’re committed to helping you hear your best every day.
+            
           </p>
 
           <dl className="grid grid-cols-3 gap-4">
