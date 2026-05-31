@@ -18,9 +18,9 @@ export function AboutHero() {
             That same year, I secured All India Rank 2 in the national entrance exam for Master of Audiology and completed my Master’s degree in Audiology in 2011. <br /> 
 
             After working in research, clinical audiology, hearing aid technology, and professional training, I joined Amplifon in 2014, where I spent over 12 years building one of the organisation’s leading clinics and was recognised as “Best Audiologist” three times. <br /> 
-            With over 20 years of experience in hearing healthcare, I’ve had the privilege of helping thousands of people improve their hearing, communication, and quality of life. Bharath Audiology was founded with a simple mission: to deliver expert, technology-driven, and compassionate hearing care tailored to every individual. <br /> 
+            With over 20 years of experience in hearing healthcare, I’ve had the privilege of helping thousands of people improve their hearing, communication, and quality of life. <br /> Bharath Audiology was founded with a simple mission: to deliver expert, technology-driven, and compassionate hearing care tailored to every individual. <br /> 
 
-            At Bharath Audiology, we believe better hearing leads to better living—and we’re committed to helping you hear your best every day.
+            At Bharath Audiology, I believe better hearing leads to better living—and we’re committed to helping you hear your best every day.
             
           </p>
 
