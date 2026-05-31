@@ -13,7 +13,7 @@ export function AboutHero() {
           </h1>
           <p className="text-pretty text-lg leading-relaxed text-muted-foreground">
             {/* PLACEHOLDER — short professional bio / mission statement */}
-            My journey in audiology began with a passion for helping people reconnect with the sounds that shape everyday life. 
+            My journey in audiology began with a passion for helping people reconnect with the sounds that shape everyday life. <br /> 
             I earned my Diploma in Hearing Aid and Ear Mould Technology in 2005, followed by a Bachelor’s in Audiology and Speech-Language Pathology in 2009 from All India Institute of Speech and Hearing. 
             That same year, I secured All India Rank 2 in the national entrance exam for Master of Audiology and completed my Master’s degree in Audiology in 2011.
 
