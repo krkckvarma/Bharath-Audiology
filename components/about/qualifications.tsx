@@ -4,28 +4,23 @@ import { GraduationCap, BadgeCheck, BookOpen, Languages } from "lucide-react"
 const qualifications = [
   {
     icon: GraduationCap,
-    title: "Master of Audiology (M.Sc / M.A.S.L.P.)",
-    detail: "A.I.I.S.H, Mysore, [Year] — specialization in diagnostic & rehabilitative audiology.",
+    title: "Master of Audiology",
+    detail: "A.I.I.S.H, Mysore, 2011 — specialization in diagnostic & rehabilitative audiology.",
   },
   {
     icon: GraduationCap,
-    title: "Bachelor of Audiology & Speech-Language Pathology (B.A.S.L.P.)",
-    detail: "A.I.I.S.H, Mysore, [Year].",
+    title: "Bachelor of Audiology & Speech-Language Pathology",
+    detail: "A.I.I.S.H, Mysore, 2009.",
   },
   {
     icon: BadgeCheck,
     title: "RCI Registered Audiologist",
-    detail: "Rehabilitation Council of India, Reg. No. [XXXXXX].",
+    detail: "Rehabilitation Council of India, Reg. No. A26615.",
   },
   {
     icon: BookOpen,
     title: "Certified Hearing Aid Dispenser",
-    detail: "Advanced fitting & real-ear measurement certification, [Year].",
-  },
-  {
-    icon: BadgeCheck,
-    title: "Member, Indian Speech & Hearing Association (ISHA)",
-    detail: "Active professional membership, [Year]–present.",
+    detail: "Advanced fitting & real-ear measurement certification, 2009.",
   },
   {
     icon: Languages,
