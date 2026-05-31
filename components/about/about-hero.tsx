@@ -13,7 +13,7 @@ export function AboutHero() {
           </h1>
           <p className="text-pretty text-lg leading-relaxed text-muted-foreground">
             {/* PLACEHOLDER — short professional bio / mission statement */}
-
+        
             My journey in audiology began with a deep passion for helping
             people reconnect with the sounds that enrich their lives. That
             passion led me to pursue a Diploma in Hearing Aid and Ear Mould
